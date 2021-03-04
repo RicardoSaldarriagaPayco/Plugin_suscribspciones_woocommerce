@@ -24,7 +24,7 @@
 
 ## Instalación
 
-1. [Descarga el plugin deacuerdo a la version de Woocommerce.](https://github.com/epayco/Plugin_ePayco_WooCommerce#versiones)
+1. [Descarga el plugin deacuerdo a la version de Woocommerce.](https://github.com/pruebasepayco/Plugin_suscribspciones_woocommerce/tree/master#versiones)
 2. Ingresa al administrador de tu wordPress.
 3. Ingresa a Plugins / Añadir-Nuevo / Subir-Plugin. 
 4. Busca el plugin descargado en tu equipo y súbelo como cualquier otro archivo.
